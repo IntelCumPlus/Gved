@@ -1,0 +1,34 @@
+@media only screen and (max-width: 1080px){
+    .startblock{
+        height: 13%;
+        width: 114.5%;
+    }
+    .vibor{
+        height: 178px;
+        width: 182px;
+    }
+    .vk{
+        position: absolute;
+        left: 42%;
+    }
+    .donate{
+        position: absolute;
+        left: 83.7%;
+    }
+    .streamvideo{
+        position: absolute;
+         top: 4%;
+        left: 1.7%; 
+    }
+    .laststreams{
+        position: absolute;
+        top: 23%;
+        left: 15%; 
+    }
+    .laststreamtext{
+        font-size: 63px;
+            position: absolute;
+            top: -24%;
+            left: 15%; 
+    }
+}

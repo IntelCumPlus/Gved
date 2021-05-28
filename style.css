@@ -1,0 +1,58 @@
+body{
+    background-image: url("Body_Background.jpg");
+}
+.startblock{
+    background-color: aliceblue;
+    border: 1px solid black;
+    width: 99.9%;
+    height: 70px;
+    margin: 0;
+        position: absolute;
+        top: 0%;
+        left: 0%; 
+}
+.laststreams{
+    text-align: center;
+    background-color: aliceblue;
+    border-radius: 20px;
+    width: 850px;
+    height: 600px;
+        position: absolute;
+        top: 23%;
+        left: 28%; 
+}
+.streamvideo{
+        position: absolute;
+         top: 4%;
+        left: 1.7%; 
+}
+.laststreamtext{
+        position: absolute;
+        top: -19%;
+        left: 24%; 
+}
+.vibor{
+    width: 72px;
+    height: 69px;
+        position: absolute;
+}
+.vk{
+        position: absolute;
+        left: 73px;
+}
+.donate{
+        position: absolute;
+        left: 146px;
+}
+.Bot{
+        position: absolute;
+        left: 219px;
+}
+.site{
+    width: 1920px;
+    height: 1080px;
+}
+.mystream{
+    width="821";
+    height="700";
+}
